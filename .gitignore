@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+allure-results/
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+**/.DS_STORE
